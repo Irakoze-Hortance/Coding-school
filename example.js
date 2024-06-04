@@ -1,1 +1,1 @@
-File created by Janvier
+console.log("File created by Janvier")
